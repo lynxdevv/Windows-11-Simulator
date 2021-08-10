@@ -41,7 +41,7 @@
         "name": "Microsoft PowerPoint",
         "src": "src/apps/powerpoint.html",
         "icon": "src/icons/powerPoint.svg"
-    }
+    },
     "settings": {
         "name": "Settings",
         "src": "https://yashash1511.github.io/win11-settings",
